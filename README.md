@@ -12,6 +12,7 @@ of the complaints.
 
 Prerequisites
 -------------
+
 * [Java](http://java.sun.com/), probably at least Java 5. You may already have it
 on your computer -- type "java -version" on the command line to find out.
 * [Rhino](http://www.mozilla.org/rhino/download.html) (just the js.jar file): 
@@ -22,6 +23,7 @@ Put js.jar and jslint.jar into a directory, for this example, let's use "dvcs_js
 as the directory name, and assume it is in your home directory (noted as ~ below).
 
 So, inside **~/dvcs_jslint/** (as an example):
+
 * js.jar
 * jslint.js
 * dvcs_jslint.js
@@ -52,6 +54,7 @@ Prerequisites section.
 
 Caveats
 -------
+
 * I have not tried it on Windows
 * The script assumes English output from the DVCS commands and may break if
 the format of the DVCS commands are different from the stock installs. See
