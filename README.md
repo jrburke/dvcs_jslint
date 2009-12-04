@@ -1,20 +1,20 @@
 dvcs_jslint
 ===========
 
-Instructions and a script that runs JSLint, http://www.jslint.com/ as a pre-commit hook, usable for
+Instructions and a script that runs [JSLint](http://www.jslint.com/) as a pre-commit hook, usable for
 either Git or Mercurial.
 
 As it says on the tin, JSLint will hurt your feelings. Only use this if you like pain.
 I take no responsibility for any anguish suffered when using JSLint.
 
-See this page for configuration options that you can put in your .js files to avoid some
-of the complaints: http://www.jslint.com/lint.html
+See the [JSLint info page[(http://www.jslint.com/lint.html) for configuration options that you can put in your .js files to avoid some
+of the complaints.
 
 Prerequisites
 -------------
-* Java, probably at least Java 5: http://java.sun.com/ You may already have it
+* [Java](http://java.sun.com/), probably at least Java 5. You may already have it
 on your computer -- type "java -version" on the command line to find out.
-* Rhino (just the js.jar file): http://www.mozilla.org/rhino/download.html
+* [Rhino](http://www.mozilla.org/rhino/download.html) (just the js.jar file): 
 * jslint.js: http://www.jslint.com/rhino/jslint.js
 * dvcs_jslint.js, the file that is next to this README.
 
