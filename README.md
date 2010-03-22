@@ -32,7 +32,7 @@ Now time to configure your DVCS to use this information:
 
 Git
 ---
-In your .git directory for your local repository, create a file called **.git/hook/pre-commit**
+In your .git directory for your local repository, create a file called **.git/hooks/pre-commit**
 with the following contents:
 
     #!/bin/sh
