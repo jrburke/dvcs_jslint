@@ -13,6 +13,8 @@ of the complaints.
 Prerequisites
 -------------
 
+**Update Feb 13, 2011**: wbecker has [a port of this approach that works for Node](https://github.com/wbecker/dvcs_hook-jslint-node).
+
 * [Java](http://java.sun.com/), probably at least Java 5. You may already have it
 on your computer -- type "java -version" on the command line to find out.
 * [Rhino](http://www.mozilla.org/rhino/download.html) (just the js.jar file): 
