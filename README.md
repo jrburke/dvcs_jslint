@@ -21,7 +21,7 @@ on your computer -- type "java -version" on the command line to find out.
 * [jslint.js](http://www.jslint.com/rhino/jslint.js)
 * dvcs_jslint.js, the file that is next to this README.
 
-Put js.jar and jslint.jar into a directory, for this example, let's use "dvcs_jslint"
+Put js.jar and jslint.js into a directory, for this example, let's use "dvcs_jslint"
 as the directory name, and assume it is in your home directory (noted as ~ below).
 
 So, inside **~/dvcs_jslint/** (as an example):
